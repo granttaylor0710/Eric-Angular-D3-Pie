@@ -1,0 +1,417 @@
+#u294
+{
+	-pie-box-shadow: 1px 1px 0px #D8D8D8;
+	-moz-box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.15);
+	-webkit-box-shadow: 1px 1px 0px -1px rgba(0, 0, 0, 0.15);
+	box-shadow: 1px 1px 0px rgba(0, 0, 0, 0.15);
+	border-color: #000000;
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u295
+{
+	border-color: #DAE1E6;
+	position: fixed;
+	background: transparent url("../images/apex-financial-logo.png") no-repeat left center;
+}
+
+#pamphletu1049
+{
+	position: fixed;
+}
+
+#u1056
+{
+	position: absolute;
+}
+
+#u1067
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #E6E6E6;
+	background-color: #FFFFFF;
+	position: relative;
+}
+
+#u1102-4
+{
+	text-align: left;
+	line-height: 18px;
+	font-size: 15px;
+	color: #506671;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u1104-4
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0071BC;
+	background-color: transparent;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-khtml-border-radius: 2px;
+	border-radius: 2px;
+	color: #2F2F2F;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1105-4
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0071BC;
+	background-color: transparent;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	-khtml-border-radius: 2px;
+	border-radius: 2px;
+	color: #787878;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1105
+{
+	color: #787878;
+}
+
+#u1106-4
+{
+	text-align: left;
+	line-height: 13px;
+	font-size: 11px;
+	color: #0071BC;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u1108-4
+{
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	-pie-box-shadow: 0px 2px 0px #E0E0E0;
+	-moz-box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.12);
+	-webkit-box-shadow: 0px 2px 0px -1px rgba(0, 0, 0, 0.12);
+	box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.12);
+	position: relative;
+}
+
+._u1108-4.f3s_top
+{
+	background-image: url("../images/u1108-4-full.png");
+	background-position: left top;
+}
+
+#pu1108-4:hover ._u1108-4.f3s_top
+{
+	background-image: url("../images/u1108-4-r-full.png");
+	background-position: left top;
+}
+
+#_u1108-4-f3s_top
+{
+	text-align: center;
+	line-height: 14px;
+	font-size: 12px;
+	letter-spacing: 0px;
+	color: #FFFFFF;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+}
+
+#pu1108-4:hover #u1108-4
+{
+	background: none;
+	-pie-background: none;
+	border-style: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	-pie-box-shadow: 0px 2px 0px #E0E0E0;
+	-moz-box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.12);
+	-webkit-box-shadow: 0px 2px 0px -1px rgba(0, 0, 0, 0.12);
+	box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.12);
+	position: relative;
+}
+
+#u1072
+{
+	position: relative;
+}
+
+#u1077
+{
+	position: absolute;
+	border-color: #DEDEDE;
+	background-color: transparent;
+}
+
+#u1077:hover
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u1077.PamphletThumbSelected
+{
+	border-color: #999999;
+	background-color: transparent;
+}
+
+#u1078-4
+{
+	background-color: transparent;
+	line-height: 18px;
+	color: #506671;
+	font-size: 13px;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	position: relative;
+}
+
+#u1077:hover #u1078-4 p
+{
+	color: #6B6B6B;
+	visibility: inherit;
+	font-size: 13px;
+}
+
+#u1077.PamphletThumbSelected #u1078-4 p
+{
+	color: #506671;
+	visibility: inherit;
+	line-height: 1.4;
+	font-size: 13px;
+	text-align: left;
+	font-family: lato, sans-serif;
+	font-weight: 700;
+	font-style: normal;
+}
+
+.PamphletWidget .ThumbGroup .Thumb, .PamphletNextButton, .PamphletPrevButton, .PamphletCloseButton /* pamphlet2 */
+{
+	cursor: pointer;
+}
+
+#u303-4
+{
+	text-align: center;
+	line-height: 16px;
+	font-size: 13px;
+	color: #87959D;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u293
+{
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	-pie-box-shadow: none;
+	-moz-box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+	-webkit-box-shadow: 0px 1px 0px -1px rgba(0, 0, 0, 0.2);
+	box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+	position: fixed;
+}
+
+._u293.f3s_top
+{
+	background-image: url("../images/u293-full.png");
+	background-position: left top;
+}
+
+#u300-4
+{
+	border-style: solid;
+	border-color: #DAE1E6;
+	background-color: transparent;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	text-align: right;
+	line-height: 14px;
+	font-size: 12px;
+	color: #506671;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: fixed;
+	border-width: 0px 0px 0px 1px;
+}
+
+#u301
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/telephone.png") no-repeat center center;
+}
+
+#u304-4
+{
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	-pie-box-shadow: 0px 1px 2px #D6D6D6;
+	-moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.16);
+	-webkit-box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.16);
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.16);
+	position: fixed;
+}
+
+._u304-4.f3s_top
+{
+	background-image: url("../images/u304-4-full.png");
+	background-position: left top;
+}
+
+#pu304-4:hover ._u304-4.f3s_top
+{
+	background-image: url("../images/u304-4-r-full.png");
+	background-position: left top;
+}
+
+#_u304-4-f3s_top
+{
+	text-align: center;
+	color: #FFFFFF;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+}
+
+#pu304-4:hover #u304-4
+{
+	background: none;
+	-pie-background: none;
+	border-style: none;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	-pie-box-shadow: 0px 1px 2px #D6D6D6;
+	-moz-box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.16);
+	-webkit-box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.16);
+	box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.16);
+	position: fixed;
+}
+
+#u369-3
+{
+	border-style: solid;
+	border-color: #DCDCDC;
+	background-color: #FAFAFA;
+	text-align: center;
+	line-height: 20px;
+	font-size: 11px;
+	color: #5B7786;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u313-2,#u313-4,#u313-6,#u313-8
+{
+	color: #93A4AD;
+}
+
+#u312-3,#u313-12,#u314-3
+{
+	border-style: solid;
+	border-color: #DCDCDC;
+	background-color: transparent;
+	text-align: center;
+	line-height: 20px;
+	font-size: 11px;
+	color: #5B7786;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 1px 0px 0px;
+}
+
+#u315-4
+{
+	text-align: center;
+	line-height: 20px;
+	font-size: 11px;
+	color: #8B9AA2;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u316
+{
+	border-color: #DAE1E6;
+	position: relative;
+	background: transparent url("../images/apex-financial-logo-u316-fr.png") no-repeat left center;
+	background-size: contain !important;
+}
+
+#u319-4,#u320-4,#u321-4,#u322-4,#u323-4
+{
+	text-align: left;
+	line-height: 13px;
+	font-size: 11px;
+	color: #0071BC;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u324-4
+{
+	border-style: solid;
+	border-color: #DAE1E6;
+	background-color: transparent;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+	text-align: right;
+	line-height: 14px;
+	font-size: 12px;
+	color: #859BA6;
+	font-family: lato, sans-serif;
+	font-weight: 400;
+	position: relative;
+	border-width: 0px 0px 0px 1px;
+}
+
+#u325
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/telephone-u325-fr.png") no-repeat center center;
+}
+
+#u326
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/verisign.png") no-repeat left top;
+}
+
+#u327
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/truste.png") no-repeat left top;
+}
+
